@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BomberMan</string>
+    <string name="Textbuttontest">Start</string>
+    <string name="Titre">BomberMan</string>
+    <string name="gg">Bien joué ;) !</string>
+
+    <string name="title_activity_start">Start</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="newAct">Le numéro rentré était :</string>
+    <string name="bomberman">bomberman</string>
+    <string name="retouraccueil">Accueil</string>
+    <string name="regles">Règles du jeu</string>
+    <string name="explications">Une bombe en or a été cachée sous un bloc fragile, le but est de retrouver cette bombe avant que le temps ne soit écoulé, pour cela il faut faire EXPLOSER les blocs !!</string>
+    <string name="mort">mort</string>
+    <string name="retour">retour</string>
+
+    <string name="title_activity_pop_regles">PopRegles</string>
+</resources>
